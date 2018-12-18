@@ -1,0 +1,168 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: normal 8.25em/1.38 SFProText-Bold;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 61.2142857142%;
+  height: 629px;
+  margin: 98px 0 0 16%;
+  border: 4px solid #fff54f;
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  position: relative;
+  float: left;
+}
+
+.image-1 {
+  float: left;
+  width: 165px;
+  margin: -39px 0 0 -4.77952%;
+}
+
+.image-2 {
+  float: right;
+  clear: both;
+  width: 65px;
+  margin: -54px -3.4010600001% 0 0;
+}
+
+.text-1 {
+  clear: both;
+  z-index: 3;
+  width: 46%;
+  min-height: 223px;
+  margin: -521px 0 0 22%;
+  font-size: 1em;
+  line-height: 0.9;
+  color: rgba(0, 0, 0, 0.13);
+  word-break: normal;
+}
+
+.text-2 {
+  z-index: 5;
+  width: 53.5714285714%;
+  min-height: 48px;
+  margin: -467px 0 0 22.7846%;
+  font-size: 0.167em;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  z-index: 4;
+  width: 8.7857142857%;
+  min-height: 38px;
+  margin: -480px 0 0 22.79911%;
+  font-size: 0.091em;
+  color: rgb(0, 0, 0);
+}
+
+@media(max-width: 800px) {
+  .container {
+    position: relative;
+    z-index: 2;
+    margin-top: 90px;
+  }
+
+  .container .image {
+    height: auto;
+  }
+
+  .text {
+    position: relative;
+  }
+
+  .container .image-1 {
+    margin-left: -9.3451%;
+  }
+
+  .container .image-2 {
+    margin-right: -6.19871%;
+  }
+
+  .text-1 {
+    z-index: 3;
+    width: 80%;
+    margin-top: -519px;
+    margin-left: 10%;
+    font-size: 0.932em;
+    word-break: break-all;
+  }
+
+  .text-2 {
+    z-index: 5;
+    margin-top: -459px;
+    margin-left: 22.78516%;
+  }
+
+  .text-3 {
+    z-index: 4;
+    margin-top: -472px;
+    margin-left: 22.79883%;
+  }
+}
+
+@media(max-width: 380px) {
+  body {
+    font-size: 8.25em;
+  }
+
+  .container {
+    position: relative;
+    z-index: 2;
+    width: 69.4736842105%;
+    height: 669px;
+    margin-top: 50px;
+    margin-left: 15.26316%;
+  }
+
+  .container .image {
+    height: auto;
+  }
+
+  .text {
+    position: relative;
+  }
+
+  .container .image-1 {
+    margin-top: -38px;
+    margin-left: -17.85625%;
+  }
+
+  .container .image-2 {
+    width: 45px;
+    margin-top: -45px;
+    margin-right: -9.75%;
+  }
+
+  .text-1 {
+    z-index: 3;
+    margin-top: -613px;
+    font-size: 0.803em;
+  }
+
+  .text-2 {
+    z-index: 5;
+    width: 56.3157894736%;
+    margin-top: -560px;
+    margin-left: 22.10526%;
+  }
+
+  .text-3 {
+    z-index: 4;
+    width: 9.2105263157%;
+    margin-top: -573px;
+    margin-left: 22.10526%;
+  }
+}
