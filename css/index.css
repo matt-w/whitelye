@@ -1,14 +1,15 @@
 body {
   background-color: rgb(255, 255, 255);
+  font: normal 8.25em/1.38 'SF Pro Display';
   color: rgb(0, 0, 0);
-  @font-face {
-      font-family: SFProText-Bold;
-      font-weight: bold;
-      src: url("SF-Pro-Text-SemiboldItalic.otf") format("opentype");
-  }
+  font-family: SF Pro Display;
+  font-weight: 800;
 }
 
-
+@font-face {
+  font-family: "SF Pro Display";
+  src: url(whitelye/SF-Pro-Text-SemiboldItalic.otf) format("truetype");
+}
 
 .container {
   position: relative;
