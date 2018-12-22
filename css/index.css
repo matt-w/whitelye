@@ -1,6 +1,6 @@
 body {
   background-color: rgb(255, 255, 255);
-  font: normal 0.75em/1.38 Times;
+  font: normal 0.75em/1.38 TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   color: rgb(0, 0, 0);
 }
 
@@ -78,7 +78,7 @@ body {
   width: 46%;
   min-height: 223px;
   margin: -459px 0 0 22%;
-  font: 11em/0.9 Times;
+  font: 11em/0.9 TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   color: rgba(0, 0, 0, 0.15);
   word-break: normal;
 }
@@ -97,7 +97,7 @@ body {
   z-index: 4;
   min-height: 24px;
   margin: -392px 0 0 22.78237%;
-  font: 1.833em/1.48 Times;
+  font: 1.833em/1.48 TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   font-weight: bold;
   color: rgb(0, 0, 0);
 }
@@ -107,7 +107,7 @@ body {
   width: 8.7857142857%;
   min-height: 38px;
   margin: -415px 0 0 22.7846%;
-  font-family: Times;
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   font-weight: bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -117,7 +117,7 @@ body {
   z-index: 8;
   min-height: 24px;
   margin: -360px 0 0 22.79911%;
-  font: 1.833em/1.48 Times;
+  font: 1.833em/1.48 TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   font-weight: bold;
   color: rgb(0, 0, 0);
 }
@@ -126,7 +126,7 @@ body {
   z-index: 9;
   min-height: 24px;
   margin: -328px 0 0 22.78237%;
-  font: 1.833em/1.48 Times;
+  font: 1.833em/1.48 TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   font-weight: bold;
   color: rgb(0, 0, 0);
 }
@@ -135,7 +135,7 @@ body {
   z-index: 10;
   min-height: 24px;
   margin: -296px 0 0 22.78237%;
-  font: 1.833em/1.48 Times;
+  font: 1.833em/1.48 TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   font-weight: bold;
   color: rgb(0, 0, 0);
 }
@@ -144,7 +144,7 @@ body {
   z-index: 11;
   min-height: 24px;
   margin: -264px 0 0 22.78237%;
-  font: 1.833em/1.48 Times;
+  font: 1.833em/1.48 TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   font-weight: bold;
   color: rgb(0, 0, 0);
 }
@@ -153,7 +153,7 @@ body {
   z-index: 12;
   min-height: 24px;
   margin: -232px 0 0 22.78237%;
-  font: 1.833em/1.48 Times;
+  font: 1.833em/1.48 TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   font-weight: bold;
   color: rgb(0, 0, 0);
 }
@@ -172,7 +172,7 @@ body {
   width: 271px;
   height: 18px;
   margin: -107px 0 0 10%;
-  font-family: Times;
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   font-size: 1em;
   color: rgb(0, 0, 0);
   overflow: hidden;
@@ -189,7 +189,7 @@ body {
   position: relative;
   z-index: 15;
   margin: -89px 0 0 22%;
-  font-family: Times;
+  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   font-weight: bold;
 }
 
