@@ -1,6 +1,6 @@
 body {
   background-color: rgb(255, 255, 255);
-  font: normal 1.375em/1.48 Times-Bold;
+  font: normal 0.75em/1.38 Times;
   color: rgb(0, 0, 0);
 }
 
@@ -35,14 +35,17 @@ body {
   float: left;
 }
 
+.text-10 p {
+  margin-bottom: 1em;
+}
+
 ._button {
   display: block;
   float: left;
   height: 37px;
   border-radius: 3px;
   background-color: rgba(255, 255, 255, 0);
-  font-size: 1.182em;
-  line-height: 1.38;
+  font-size: 2.167em;
   text-align: center;
   color: rgb(0, 0, 0);
 }
@@ -63,9 +66,10 @@ body {
 .image-3 {
   position: relative;
   float: left;
+  clear: both;
   z-index: 13;
   width: 593px;
-  margin: -392px 0 0 47.71429%;
+  margin: -568px 0 0 47.71429%;
 }
 
 .text-1 {
@@ -74,16 +78,26 @@ body {
   width: 46%;
   min-height: 223px;
   margin: -459px 0 0 22%;
-  font: 6em/0.9 Times-Roman;
+  font: 11em/0.9 Times-Roman;
   color: rgba(0, 0, 0, 0.15);
   word-break: normal;
+}
+
+.text-10 {
+  z-index: 16;
+  width: 40%;
+  min-height: 124px;
+  margin: 52px 0 0 16%;
+  font-size: 1em;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
 }
 
 .text-2 {
   z-index: 4;
   min-height: 24px;
   margin: -392px 0 0 22.78237%;
-  font-size: 1em;
+  font: 1.833em/1.48 Times-Bold;
   color: rgb(0, 0, 0);
 }
 
@@ -92,8 +106,8 @@ body {
   width: 8.7857142857%;
   min-height: 38px;
   margin: -415px 0 0 22.7846%;
-  font-size: 0.545em;
-  line-height: 1.38;
+  font-family: Times-Bold;
+  font-size: 1em;
   color: rgb(0, 0, 0);
 }
 
@@ -101,7 +115,7 @@ body {
   z-index: 8;
   min-height: 24px;
   margin: -360px 0 0 22.79911%;
-  font-size: 1em;
+  font: 1.833em/1.48 Times-Bold;
   color: rgb(0, 0, 0);
 }
 
@@ -109,7 +123,7 @@ body {
   z-index: 9;
   min-height: 24px;
   margin: -328px 0 0 22.78237%;
-  font-size: 1em;
+  font: 1.833em/1.48 Times-Bold;
   color: rgb(0, 0, 0);
 }
 
@@ -117,7 +131,7 @@ body {
   z-index: 10;
   min-height: 24px;
   margin: -296px 0 0 22.78237%;
-  font-size: 1em;
+  font: 1.833em/1.48 Times-Bold;
   color: rgb(0, 0, 0);
 }
 
@@ -125,7 +139,7 @@ body {
   z-index: 11;
   min-height: 24px;
   margin: -264px 0 0 22.78237%;
-  font-size: 1em;
+  font: 1.833em/1.48 Times-Bold;
   color: rgb(0, 0, 0);
 }
 
@@ -133,7 +147,7 @@ body {
   z-index: 12;
   min-height: 24px;
   margin: -232px 0 0 22.78237%;
-  font-size: 1em;
+  font: 1.833em/1.48 Times-Bold;
   color: rgb(0, 0, 0);
 }
 
@@ -150,8 +164,9 @@ body {
   z-index: 7;
   width: 271px;
   height: 18px;
-  margin: -107px 0 0 15.19978%;
-  font: 0.545em/1.38 Times-Roman;
+  margin: -107px 0 0 10%;
+  font-family: Times-Roman;
+  font-size: 1em;
   color: rgb(0, 0, 0);
   overflow: hidden;
   word-wrap: normal;
@@ -167,6 +182,7 @@ body {
   position: relative;
   z-index: 15;
   margin: -89px 0 0 22%;
+  font-family: Times-Bold;
 }
 
 ._button-2:hover {
@@ -199,16 +215,19 @@ body {
 
   .image-3 {
     position: relative;
-    clear: both;
     z-index: 13;
     width: 461px;
-    margin-top: -234px;
+    margin-top: -410px;
     margin-left: 44%;
   }
 
   .text-1 {
     z-index: 3;
     margin-top: -466px;
+  }
+
+  .text-10 {
+    z-index: 16;
   }
 
   .text-2 {
@@ -257,7 +276,6 @@ body {
   .text-9 {
     z-index: 7;
     margin-top: -106px;
-    margin-left: 10%;
   }
 
   ._button-1 {
@@ -275,7 +293,7 @@ body {
 
 @media(max-width: 380px) {
   body {
-    font-size: 1.375em;
+    font-size: 0.75em;
   }
 
   .container {
@@ -301,7 +319,7 @@ body {
 
   .image {
     height: auto;
-    margin-top: -223px;
+    margin-top: -471px;
   }
 
   .text {
@@ -323,7 +341,7 @@ body {
     position: relative;
     z-index: 13;
     width: 387px;
-    margin-left: 19.46957%;
+    margin-left: 19.46135%;
   }
 
   .text-1 {
@@ -331,8 +349,14 @@ body {
     width: 304px;
     margin-top: -468px;
     margin-left: 10%;
-    font-size: 4.818em;
+    font-size: 8.833em;
     word-break: break-all;
+  }
+
+  .text-10 {
+    z-index: 16;
+    width: 55%;
+    margin-left: 16.04852%;
   }
 
   .text-2 {
@@ -387,7 +411,7 @@ body {
     width: 33.947368421%;
     margin-top: -121px;
     margin-left: 81.26645%;
-    font-size: 0.727em;
+    font-size: 1.333em;
   }
 
   ._button-2 {
@@ -395,6 +419,6 @@ body {
     z-index: 15;
     margin-top: -61px;
     margin-left: 21.99836%;
-    font-size: 1.136em;
+    font-size: 2.083em;
   }
 }
