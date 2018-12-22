@@ -1,6 +1,6 @@
 body {
   background-color: rgb(255, 255, 255);
-  font: normal 1.375em/0.48 SFProText-Bold;
+  font: normal 1.375em/1.48 Times-Bold;
   color: rgb(0, 0, 0);
 }
 
@@ -17,10 +17,10 @@ body {
 .element {
   position: relative;
   float: left;
-  z-index: 6;
+  z-index: 14;
   width: 15.2142857142%;
   height: 12px;
-  margin: -64px 0 0 15.19978%;
+  margin: -69px 0 0 16%;
   background-color: rgb(255, 245, 79);
 }
 
@@ -35,17 +35,14 @@ body {
   float: left;
 }
 
-.text-2 p {
-  margin-bottom: 1em;
-}
-
 ._button {
   display: block;
   float: left;
   height: 37px;
   border-radius: 3px;
   background-color: rgba(255, 255, 255, 0);
-  font: 1.182em/1.38 SFProText-Heavy;
+  font-size: 1.182em;
+  line-height: 1.38;
   text-align: center;
   color: rgb(0, 0, 0);
 }
@@ -63,29 +60,35 @@ body {
   margin: -54px -3.4010600001% 0 0;
 }
 
+.image-3 {
+  position: relative;
+  float: left;
+  z-index: 13;
+  width: 593px;
+  margin: -392px 0 0 47.71429%;
+}
+
 .text-1 {
   clear: both;
   z-index: 3;
   width: 46%;
   min-height: 223px;
   margin: -459px 0 0 22%;
-  font-size: 6em;
-  line-height: 0.9;
+  font: 6em/0.9 Times-Roman;
   color: rgba(0, 0, 0, 0.15);
   word-break: normal;
 }
 
 .text-2 {
   z-index: 4;
-  width: 465px;
-  min-height: 48px;
-  margin: -384px 0 0 22.78237%;
+  min-height: 24px;
+  margin: -392px 0 0 22.78237%;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
 
 .text-3 {
-  z-index: 8;
+  z-index: 6;
   width: 8.7857142857%;
   min-height: 38px;
   margin: -415px 0 0 22.7846%;
@@ -95,23 +98,79 @@ body {
 }
 
 .text-4 {
-  z-index: 9;
-  width: 286px;
-  min-height: 80px;
-  margin: -194px 0 0 15.2%;
-  font: 0.545em/1.38 SFProText-Light;
+  z-index: 8;
+  min-height: 24px;
+  margin: -360px 0 0 22.79911%;
+  font-size: 1em;
   color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  z-index: 9;
+  min-height: 24px;
+  margin: -328px 0 0 22.78237%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-6 {
+  z-index: 10;
+  min-height: 24px;
+  margin: -296px 0 0 22.78237%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-7 {
+  z-index: 11;
+  min-height: 24px;
+  margin: -264px 0 0 22.78237%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-8 {
+  z-index: 12;
+  min-height: 24px;
+  margin: -232px 0 0 22.78237%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-2:hover,
+.text-4:hover,
+.text-5:hover,
+.text-6:hover,
+.text-7:hover,
+.text-8:hover {
+  background-color: rgb(255, 245, 79);
+}
+
+.text-9 {
+  z-index: 7;
+  width: 271px;
+  height: 18px;
+  margin: -107px 0 0 15.19978%;
+  font: 0.545em/1.38 Times-Roman;
+  color: rgb(0, 0, 0);
+  overflow: hidden;
+  word-wrap: normal;
 }
 
 ._button-1 {
   width: 13.5714285714%;
   margin: -82px 0 0 22.0580399999%;
+  font-family: SFProText-Heavy;
 }
 
 ._button-2 {
   position: relative;
-  z-index: 7;
-  margin: -89px 0 0 22.05692%;
+  z-index: 15;
+  margin: -89px 0 0 22%;
+}
+
+._button-2:hover {
+  background-color: rgb(255, 245, 79);
 }
 
 @media(max-width: 800px) {
@@ -126,13 +185,25 @@ body {
 
   .element {
     position: relative;
-    z-index: 6;
-    width: 27.25%;
-    margin-left: 10%;
+    z-index: 14;
+    width: 218px;
+  }
+
+  .image {
+    height: auto;
   }
 
   .text {
     position: relative;
+  }
+
+  .image-3 {
+    position: relative;
+    clear: both;
+    z-index: 13;
+    width: 461px;
+    margin-top: -234px;
+    margin-left: 44%;
   }
 
   .text-1 {
@@ -142,23 +213,51 @@ body {
 
   .text-2 {
     z-index: 4;
-    width: 266px;
     margin-top: -394px;
     margin-left: 22.75%;
   }
 
   .text-3 {
-    z-index: 8;
+    z-index: 6;
     width: 12.75%;
     margin-top: -418px;
     margin-left: 22.79883%;
   }
 
   .text-4 {
+    z-index: 8;
+    margin-top: -362px;
+    margin-left: 22.75%;
+  }
+
+  .text-5 {
     z-index: 9;
-    width: 285px;
-    margin-top: -207px;
-    margin-left: 14.375%;
+    margin-top: -330px;
+    margin-left: 22.79883%;
+  }
+
+  .text-6 {
+    z-index: 10;
+    margin-top: -298px;
+    margin-left: 22.79883%;
+  }
+
+  .text-7 {
+    z-index: 11;
+    margin-top: -266px;
+    margin-left: 22.75%;
+  }
+
+  .text-8 {
+    z-index: 12;
+    margin-top: -234px;
+    margin-left: 22.79883%;
+  }
+
+  .text-9 {
+    z-index: 7;
+    margin-top: -106px;
+    margin-left: 10%;
   }
 
   ._button-1 {
@@ -168,8 +267,9 @@ body {
 
   ._button-2 {
     position: relative;
-    z-index: 7;
-    margin-left: 22%;
+    z-index: 15;
+    margin-top: -90px;
+    margin-left: 22.79883%;
   }
 }
 
@@ -193,18 +293,19 @@ body {
 
   .element {
     position: relative;
-    z-index: 6;
-    width: 37.1052631578%;
-    margin-top: -65px;
+    z-index: 14;
+    width: 43.947368421%;
+    margin-top: -41px;
     margin-left: 0;
+  }
+
+  .image {
+    height: auto;
+    margin-top: -223px;
   }
 
   .text {
     position: relative;
-  }
-
-  ._button {
-    font-size: 0.727em;
   }
 
   .container .image-1 {
@@ -218,6 +319,13 @@ body {
     margin-right: -9.75%;
   }
 
+  .image-3 {
+    position: relative;
+    z-index: 13;
+    width: 387px;
+    margin-left: 19.46957%;
+  }
+
   .text-1 {
     z-index: 3;
     width: 304px;
@@ -229,35 +337,64 @@ body {
 
   .text-2 {
     z-index: 4;
-    width: 296px;
     margin-top: -415px;
-    margin-left: 22.10115%;
+    margin-left: 10%;
   }
 
   .text-3 {
-    z-index: 8;
-    width: 28.6842105263%;
+    z-index: 6;
+    width: 33.1578947368%;
     margin-top: -439px;
-    margin-left: 22.10115%;
+    margin-left: 10%;
   }
 
   .text-4 {
-    z-index: 9;
-    width: 149px;
-    margin-top: -148px;
+    z-index: 8;
+    margin-top: -383px;
     margin-left: 10%;
+  }
+
+  .text-5 {
+    z-index: 9;
+    margin-top: -351px;
+    margin-left: 10%;
+  }
+
+  .text-6 {
+    z-index: 10;
+    margin-top: -319px;
+    margin-left: 10%;
+  }
+
+  .text-7 {
+    z-index: 11;
+    margin-top: -287px;
+    margin-left: 10%;
+  }
+
+  .text-8 {
+    z-index: 12;
+    margin-top: -255px;
+    margin-left: 10%;
+  }
+
+  .text-9 {
+    z-index: 7;
+    margin-top: -95px;
   }
 
   ._button-1 {
     width: 33.947368421%;
     margin-top: -121px;
     margin-left: 81.26645%;
+    font-size: 0.727em;
   }
 
   ._button-2 {
     position: relative;
-    z-index: 7;
-    margin-top: -85px;
-    margin-left: 16.79688%;
+    z-index: 15;
+    margin-top: -61px;
+    margin-left: 21.99836%;
+    font-size: 1.136em;
   }
 }
