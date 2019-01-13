@@ -6,6 +6,7 @@ body {
 
 @font-face {
   font-family: "SF Pro Display";
+  src: url(kane/SF-Pro-Display-Light.otf) format("truetype");
   src: url(kane/SF-Pro-Display-Regular.otf) format("truetype");
   src: url(kane/SF-Pro-Display-RegularItalic.otf) format("truetype");
   src: url(kane/SF-Pro-Display-Semibold.otf) format("truetype");
@@ -286,7 +287,7 @@ body {
   position: relative;
   float: left;
   z-index: 24;
-  width: 21.8251329787%;
+  width: 53.1914893617%;
   min-height: 17px;
   margin: -60px 0 0 72px;
   font-family: SFProDisplay-Bold;
@@ -322,9 +323,9 @@ body {
   position: relative;
   float: left;
   z-index: 30;
-  width: 21.8251329787%;
+  width: 52.9787234042%;
   min-height: 17px;
-  margin: -60px 0 0 15.70479%;
+  margin: -60px 0 0 15.74468%;
   font-family: SFProDisplay-Bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -382,9 +383,9 @@ body {
   position: relative;
   float: left;
   z-index: 49;
-  width: 21.8251329787%;
+  width: 52.7659574468%;
   min-height: 17px;
-  margin: -60px 0 0 15.62168%;
+  margin: -60px 0 0 15.52859%;
   font-family: SFProDisplay-Bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -418,9 +419,9 @@ body {
   position: relative;
   float: left;
   z-index: 55;
-  width: 21.8251329787%;
+  width: 52.7659574468%;
   min-height: 17px;
-  margin: -60px 0 0 15.62168%;
+  margin: -60px 0 0 15.52859%;
   font-family: SFProDisplay-Bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -487,7 +488,7 @@ body {
   position: relative;
   float: left;
   z-index: 37;
-  width: 41.914893617%;
+  width: 53.1914893617%;
   min-height: 17px;
   margin: -60px 0 0 15.31915%;
   font-family: SFProDisplay-Regular;
@@ -532,7 +533,7 @@ body {
   position: relative;
   float: left;
   z-index: 43;
-  width: 41.7021276595%;
+  width: 52.1276595744%;
   min-height: 17px;
   margin: -60px 0 0 15.31915%;
   font-family: SFProDisplay-Bold;
@@ -876,7 +877,7 @@ body {
   .container .text-14 {
     position: relative;
     z-index: 24;
-    width: 26.5724734042%;
+    width: 60%;
     margin-top: -61px;
     margin-left: 127px;
   }
@@ -900,7 +901,7 @@ body {
   .container .text-18 {
     position: relative;
     z-index: 30;
-    width: 103px;
+    width: 282px;
     margin-top: -61px;
     margin-left: 127px;
   }
@@ -937,7 +938,7 @@ body {
   .container .text-22 {
     position: relative;
     z-index: 49;
-    width: 26.642287234%;
+    width: 60%;
     margin-top: -61px;
     margin-left: 127px;
   }
@@ -966,7 +967,7 @@ body {
   .container .text-26 {
     position: relative;
     z-index: 55;
-    width: 26.5724734042%;
+    width: 60.2127659574%;
     margin-top: -61px;
     margin-left: 126px;
   }
@@ -1003,7 +1004,7 @@ body {
   .container .text-31 {
     position: relative;
     z-index: 37;
-    width: 26.5724734042%;
+    width: 60.2127659574%;
     margin-top: -61px;
     margin-left: 126px;
   }
@@ -1027,7 +1028,7 @@ body {
   .container .text-35 {
     position: relative;
     z-index: 43;
-    width: 26.5724734042%;
+    width: 60.2127659574%;
     margin-top: -61px;
     margin-left: 126px;
   }
