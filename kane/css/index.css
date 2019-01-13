@@ -24,12 +24,13 @@ body {
 .container-1 {
   width: 470px;
   margin: 0 auto;
+  padding-bottom: 60px;
 }
 
 .container-2 {
   width: 99.5744680851%;
   height: 97px;
-  margin: 40px 0 0 0.2127699999%;
+  margin: 50px 0 0 0.2127699999%;
 }
 
 .container-3 {
@@ -40,9 +41,9 @@ body {
 
 .element-1 {
   z-index: 0;
-  width: 634px;
-  height: 48px;
-  margin-left: -17.44681%;
+  width: 552px;
+  height: 137px;
+  margin: -89px 0 0 -8.72008%;
   border-bottom-right-radius: 6px;
   border-bottom-left-radius: 6px;
 }
@@ -87,7 +88,7 @@ body {
   z-index: 23;
   width: 62px;
   height: 62px;
-  margin-top: 10px;
+  margin-top: 20px;
   border-radius: 300px;
 }
 
@@ -267,7 +268,7 @@ body {
   clear: both;
   width: 30.7267287234%;
   min-height: 34px;
-  margin: 30px 0 0 0.2127699999%;
+  margin: 40px 0 0 0.2127699999%;
   font-family: SFProDisplay-Semibold;
   font-size: 1.286em;
   color: rgb(0, 0, 0);
@@ -279,7 +280,7 @@ body {
   z-index: 24;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -61px 0 0 72px;
+  margin: -60px 0 0 72px;
   font-family: SFProDisplay-Bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -291,7 +292,7 @@ body {
   z-index: 25;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -41px 0 0 72px;
+  margin: -40px 0 0 72px;
   font-family: SFProDisplay-Italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -303,7 +304,7 @@ body {
   z-index: 26;
   width: 24.3583776595%;
   min-height: 17px;
-  margin: -21px 0 0 72px;
+  margin: -20px 0 0 72px;
   font-family: SFProDisplay-Regular;
   font-size: 1em;
   color: rgba(0, 0, 0, 0.5);
@@ -315,7 +316,7 @@ body {
   z-index: 30;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -61px 0 0 15.70479%;
+  margin: -60px 0 0 15.70479%;
   font-family: SFProDisplay-Bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -327,7 +328,7 @@ body {
   z-index: 31;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -41px 0 0 15.70479%;
+  margin: -40px 0 0 15.70479%;
   font-family: SFProDisplay-Italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -354,7 +355,7 @@ body {
   z-index: 32;
   width: 24.3583776595%;
   min-height: 17px;
-  margin: -21px 0 0 15.70479%;
+  margin: -20px 0 0 15.70479%;
   font-family: SFProDisplay-Regular;
   font-size: 1em;
   color: rgba(0, 0, 0, 0.5);
@@ -375,7 +376,7 @@ body {
   z-index: 49;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -61px 0 0 15.62168%;
+  margin: -60px 0 0 15.62168%;
   font-family: SFProDisplay-Bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -387,7 +388,7 @@ body {
   z-index: 50;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -41px 0 0 15.62168%;
+  margin: -40px 0 0 15.62168%;
   font-family: SFProDisplay-Italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -399,7 +400,7 @@ body {
   z-index: 51;
   width: 24.3583776595%;
   min-height: 17px;
-  margin: -21px 0 0 15.62168%;
+  margin: -20px 0 0 15.62168%;
   font-family: SFProDisplay-Regular;
   font-size: 1em;
   color: rgba(0, 0, 0, 0.5);
@@ -411,7 +412,7 @@ body {
   z-index: 55;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -61px 0 0 15.62168%;
+  margin: -60px 0 0 15.62168%;
   font-family: SFProDisplay-Bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -423,7 +424,7 @@ body {
   z-index: 56;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -41px 0 0 15.62168%;
+  margin: -40px 0 0 15.62168%;
   font-family: SFProDisplay-Italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -435,7 +436,7 @@ body {
   z-index: 57;
   width: 24.3583776595%;
   min-height: 17px;
-  margin: -21px 0 0 15.62168%;
+  margin: -20px 0 0 15.62168%;
   font-family: SFProDisplay-Regular;
   font-size: 1em;
   color: rgba(0, 0, 0, 0.5);
@@ -457,7 +458,7 @@ body {
   z-index: 3;
   width: 52.987012987%;
   min-height: 22px;
-  margin-left: 0.00509%;
+  margin-left: 0.00334%;
   font-family: SFProDisplay-Semibold;
   font-size: 1.571em;
   color: rgb(0, 0, 0);
@@ -468,7 +469,7 @@ body {
   clear: both;
   width: 30.7247340425%;
   min-height: 34px;
-  margin: 30px 0 0 -0.0266%;
+  margin: 40px 0 0 -0.0266%;
   font-family: SFProDisplay-Semibold;
   font-size: 1.286em;
   color: rgb(0, 0, 0);
@@ -480,7 +481,7 @@ body {
   z-index: 37;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -61px 0 0 15.28258%;
+  margin: -60px 0 0 15.28258%;
   font-family: SFProDisplay-Bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -492,7 +493,7 @@ body {
   z-index: 38;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -41px 0 0 15.28258%;
+  margin: -40px 0 0 15.28258%;
   font-family: SFProDisplay-Italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -504,7 +505,7 @@ body {
   z-index: 39;
   width: 24.3583776595%;
   min-height: 17px;
-  margin: -21px 0 0 15.28258%;
+  margin: -20px 0 0 15.28258%;
   font-family: SFProDisplay-Regular;
   font-size: 1em;
   color: rgba(0, 0, 0, 0.5);
@@ -525,7 +526,7 @@ body {
   z-index: 43;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -61px 0 0 15.36237%;
+  margin: -60px 0 0 15.36237%;
   font-family: SFProDisplay-Bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -537,7 +538,7 @@ body {
   z-index: 44;
   width: 21.8251329787%;
   min-height: 17px;
-  margin: -41px 0 0 15.36237%;
+  margin: -40px 0 0 15.36237%;
   font-family: SFProDisplay-Italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -549,7 +550,7 @@ body {
   z-index: 45;
   width: 24.3583776595%;
   min-height: 17px;
-  margin: -21px 0 0 15.36237%;
+  margin: -20px 0 0 15.36237%;
   font-family: SFProDisplay-Regular;
   font-size: 1em;
   color: rgba(0, 0, 0, 0.5);
@@ -585,7 +586,7 @@ body {
   z-index: 6;
   width: 47.0358306188%;
   min-height: 21px;
-  margin: 24px 0 0 0.00509%;
+  margin: 24px 0 0 0.00334%;
   font-family: 'SF Pro Display';
   font-size: 1em;
   font-weight: 400;
@@ -597,7 +598,7 @@ body {
   clear: both;
   width: 30.7234042553%;
   min-height: 34px;
-  margin: 30px 0 0 0.2127699999%;
+  margin: 40px 0 0 0.2127699999%;
   font-family: SFProDisplay-Semibold;
   font-size: 1.286em;
   color: rgb(0, 0, 0);
@@ -618,7 +619,7 @@ body {
   clear: both;
   width: 25.9607712765%;
   min-height: 34px;
-  margin: 30px 0 0 0.2127699999%;
+  margin: 40px 0 0 0.2127699999%;
   font-family: SFProDisplay-Semibold;
   font-size: 1.286em;
   color: rgb(0, 0, 0);
@@ -664,6 +665,8 @@ body {
 
   .container .element-1 {
     z-index: 0;
+    height: 53px;
+    margin-top: 0;
     margin-left: 0;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
@@ -691,7 +694,6 @@ body {
 
   .container .element-5 {
     z-index: 23;
-    margin-top: 20px;
     margin-left: 47px;
   }
 
@@ -790,9 +792,14 @@ body {
     margin-left: 5.45094%;
   }
 
-  .container .text-12,
+  .container .text-12 {
+    width: 80%;
+    margin-left: 10%;
+  }
+
   .container .text-13 {
     width: 80%;
+    margin-top: 30px;
     margin-left: 10%;
   }
 
@@ -800,6 +807,7 @@ body {
     position: relative;
     z-index: 24;
     width: 26.5724734042%;
+    margin-top: -61px;
     margin-left: 127px;
   }
 
@@ -807,6 +815,7 @@ body {
     position: relative;
     z-index: 25;
     width: 26.5724734042%;
+    margin-top: -41px;
     margin-left: 127px;
   }
 
@@ -814,6 +823,7 @@ body {
     position: relative;
     z-index: 26;
     width: 29.6575797872%;
+    margin-top: -21px;
     margin-left: 127px;
   }
 
@@ -821,6 +831,7 @@ body {
     position: relative;
     z-index: 30;
     width: 103px;
+    margin-top: -61px;
     margin-left: 127px;
   }
 
@@ -828,6 +839,7 @@ body {
     position: relative;
     z-index: 31;
     width: 103px;
+    margin-top: -41px;
     margin-left: 127px;
   }
 
@@ -843,6 +855,7 @@ body {
     position: relative;
     z-index: 32;
     width: 114px;
+    margin-top: -21px;
     margin-left: 127px;
   }
 
@@ -855,6 +868,7 @@ body {
     position: relative;
     z-index: 49;
     width: 26.642287234%;
+    margin-top: -61px;
     margin-left: 127px;
   }
 
@@ -862,6 +876,7 @@ body {
     position: relative;
     z-index: 50;
     width: 26.642287234%;
+    margin-top: -41px;
     margin-left: 127px;
   }
 
@@ -869,6 +884,7 @@ body {
     position: relative;
     z-index: 51;
     width: 29.7373670212%;
+    margin-top: -21px;
     margin-left: 127px;
   }
 
@@ -881,6 +897,7 @@ body {
     position: relative;
     z-index: 55;
     width: 26.5724734042%;
+    margin-top: -61px;
     margin-left: 126px;
   }
 
@@ -888,6 +905,7 @@ body {
     position: relative;
     z-index: 56;
     width: 26.5724734042%;
+    margin-top: -41px;
     margin-left: 126px;
   }
 
@@ -895,6 +913,7 @@ body {
     position: relative;
     z-index: 57;
     width: 29.6575797872%;
+    margin-top: -21px;
     margin-left: 126px;
   }
 
@@ -915,6 +934,7 @@ body {
     position: relative;
     z-index: 37;
     width: 26.5724734042%;
+    margin-top: -61px;
     margin-left: 126px;
   }
 
@@ -922,6 +942,7 @@ body {
     position: relative;
     z-index: 38;
     width: 26.5724734042%;
+    margin-top: -41px;
     margin-left: 126px;
   }
 
@@ -929,6 +950,7 @@ body {
     position: relative;
     z-index: 39;
     width: 29.6575797872%;
+    margin-top: -21px;
     margin-left: 126px;
   }
 
@@ -936,6 +958,7 @@ body {
     position: relative;
     z-index: 43;
     width: 26.5724734042%;
+    margin-top: -61px;
     margin-left: 126px;
   }
 
@@ -943,6 +966,7 @@ body {
     position: relative;
     z-index: 44;
     width: 26.5724734042%;
+    margin-top: -41px;
     margin-left: 126px;
   }
 
@@ -950,6 +974,7 @@ body {
     position: relative;
     z-index: 45;
     width: 29.6575797872%;
+    margin-top: -21px;
     margin-left: 126px;
   }
 
@@ -981,6 +1006,7 @@ body {
 
   .container .text-6,
   .container .text-8 {
+    margin-top: 30px;
     margin-left: 10%;
   }
 
