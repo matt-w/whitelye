@@ -479,10 +479,10 @@ body {
   position: relative;
   float: left;
   z-index: 37;
-  width: 21.8251329787%;
+  width: 41.914893617%;
   min-height: 17px;
-  margin: -60px 0 0 15.28258%;
-  font-family: SFProDisplay-Bold;
+  margin: -60px 0 0 15.31915%;
+  font-family: SFProDisplay-Regular;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
@@ -524,9 +524,9 @@ body {
   position: relative;
   float: left;
   z-index: 43;
-  width: 21.8251329787%;
+  width: 41.7021276595%;
   min-height: 17px;
-  margin: -60px 0 0 15.36237%;
+  margin: -60px 0 0 15.31915%;
   font-family: SFProDisplay-Bold;
   font-size: 1em;
   color: rgb(0, 0, 0);
@@ -637,6 +637,68 @@ body {
   font-size: 0.857em;
   text-align: center;
   color: rgb(0, 0, 0);
+}
+
+.text a {
+  border-bottom: 1px dotted rgb(0, 79, 255);
+  border-top-width: 0;
+  border-right-width: 0;
+  border-left-width: 0;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text a:hover {
+  background-color: rgb(242, 240, 0);
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: Bold;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
 }
 
 @media(max-width: 470px) {
