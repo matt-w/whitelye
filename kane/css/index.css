@@ -4,6 +4,14 @@ body {
   color: rgb(0, 0, 0);
 }
 
+@font-face {
+  font-family: "SF Pro Display";
+  src: url(kane/SF-Pro-Display-Regular.otf) format("truetype");
+  src: url(kane/SF-Pro-Display-RegularItalic.otf) format("truetype");
+  src: url(kane/SF-Pro-Display-Semibold.otf) format("truetype");
+  src: url(kane/SF-Pro-Display-Bold.otf) format("truetype");
+}
+
 .container .container {
   float: left;
   clear: both;
