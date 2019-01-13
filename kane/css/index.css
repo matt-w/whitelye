@@ -1,4 +1,5 @@
 body {
+  overflow-x: hidden;
   background-color: #d8dfe5;
   font: normal .91em/1.38 'SFProDisplay-Regular';
   color: rgb(0, 0, 0);
