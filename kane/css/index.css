@@ -1,0 +1,992 @@
+body {
+  background-color: #d8dfe5;
+  font: normal 0.875em/1.38 SFProDisplay-Light;
+  color: rgb(0, 0, 0);
+}
+
+.container .container {
+  float: left;
+  clear: both;
+}
+
+.element {
+  position: relative;
+  float: left;
+  background-color: rgb(255, 255, 255);
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.container-1 {
+  width: 470px;
+  margin: 0 auto;
+}
+
+.container-2 {
+  width: 99.5744680851%;
+  height: 97px;
+  margin: 40px 0 0 0.2127699999%;
+}
+
+.container-3 {
+  width: 65.2207446808%;
+  height: 112px;
+  margin: 10px 0 0 0.29588%;
+}
+
+.element-1 {
+  z-index: 0;
+  width: 634px;
+  height: 48px;
+  margin-left: -17.44681%;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+.element-10 {
+  clear: both;
+  z-index: 42;
+  width: 62px;
+  height: 62px;
+  margin: 20px 0 0 0.04322%;
+  border-radius: 300px;
+}
+
+.element-2 {
+  z-index: 11;
+  width: 84px;
+  height: 84px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.element-3 {
+  z-index: 14;
+  width: 84px;
+  height: 84px;
+  margin: -84px 0 0 32.89326%;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.element-4 {
+  z-index: 16;
+  width: 84px;
+  height: 84px;
+  margin: -84px 0 0 66.06688%;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.element-5 {
+  clear: both;
+  z-index: 23;
+  width: 62px;
+  height: 62px;
+  margin-top: 10px;
+  border-radius: 300px;
+}
+
+.element-6 {
+  clear: both;
+  z-index: 29;
+  width: 62px;
+  height: 62px;
+  margin: 20px 0 0 0.38564%;
+  border-radius: 300px;
+}
+
+.element-7 {
+  clear: both;
+  z-index: 48;
+  width: 62px;
+  height: 62px;
+  margin: 20px 0 0 0.30253%;
+  border-radius: 300px;
+}
+
+.element-8 {
+  clear: both;
+  z-index: 54;
+  width: 62px;
+  height: 62px;
+  margin: 20px 0 0 0.30253%;
+  border-radius: 300px;
+}
+
+.element-9 {
+  clear: both;
+  z-index: 36;
+  width: 62px;
+  height: 62px;
+  margin: 20px 0 0 -0.0266%;
+  border-radius: 300px;
+}
+
+.image-1 {
+  float: right;
+  width: 98px;
+  margin-top: -52px;
+}
+
+.image-10 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 47;
+  width: 36px;
+  margin: -43px 0 0 3.01197%;
+}
+
+.image-2 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 12;
+  width: 48px;
+  margin: -65px 0 0 5.85687%;
+}
+
+.image-3 {
+  position: relative;
+  float: left;
+  z-index: 18;
+  width: 47px;
+  margin: -65px 0 0 39.08146%;
+}
+
+.image-4 {
+  position: relative;
+  float: left;
+  z-index: 19;
+  width: 43px;
+  margin: -63px 0 0 72.62718%;
+}
+
+.image-5 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 28;
+  width: 32px;
+  margin: -54px 0 0 17px;
+}
+
+.image-6 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 34;
+  width: 46px;
+  margin: -54px 0 0 2.07447%;
+}
+
+.image-7 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 53;
+  width: 28px;
+  margin: -44px 0 0 3.90625%;
+}
+
+.image-8 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 59;
+  width: 32px;
+  margin: -47px 0 0 3.49402%;
+}
+
+.image-9 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 41;
+  width: 37px;
+  margin: -49px 0 0 2.72939%;
+}
+
+.text-1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 4.6808510638%;
+  margin: -33px 0 0 -0.03657%;
+  font-family: 'SF Pro Display';
+  font-size: 1em;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.text-10 {
+  position: relative;
+  float: left;
+  z-index: 15;
+  width: 84px;
+  min-height: 20px;
+  margin: 8px 0 0 5.8008%;
+  font-family: SFProDisplay-Bold;
+  font-size: 0.857em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-11 {
+  position: relative;
+  float: left;
+  z-index: 17;
+  width: 84px;
+  min-height: 20px;
+  margin: 8px 0 0 5.44908%;
+  font-family: SFProDisplay-Bold;
+  font-size: 0.857em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-12 {
+  float: left;
+  clear: both;
+  width: 99.3617021276%;
+  min-height: 32px;
+  margin: 10px 0 0 0.2127699999%;
+  font-family: SFProDisplay-LightItalic;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-13 {
+  float: left;
+  clear: both;
+  width: 30.7267287234%;
+  min-height: 34px;
+  margin: 30px 0 0 0.2127699999%;
+  font-family: SFProDisplay-Semibold;
+  font-size: 1.286em;
+  color: rgb(0, 0, 0);
+}
+
+.text-14 {
+  position: relative;
+  float: left;
+  z-index: 24;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -61px 0 0 72px;
+  font-family: SFProDisplay-Bold;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-15 {
+  position: relative;
+  float: left;
+  z-index: 25;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -41px 0 0 72px;
+  font-family: SFProDisplay-Italic;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-16 {
+  position: relative;
+  float: left;
+  z-index: 26;
+  width: 24.3583776595%;
+  min-height: 17px;
+  margin: -21px 0 0 72px;
+  font-family: SFProDisplay-Regular;
+  font-size: 1em;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.text-18 {
+  position: relative;
+  float: left;
+  z-index: 30;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -61px 0 0 15.70479%;
+  font-family: SFProDisplay-Bold;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-19 {
+  position: relative;
+  float: left;
+  z-index: 31;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -41px 0 0 15.70479%;
+  font-family: SFProDisplay-Italic;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 {
+  position: relative;
+  float: right;
+  clear: both;
+  z-index: 2;
+  width: 32.7659574468%;
+  min-height: 19px;
+  margin: -33px -0.12633% 0 0;
+  font-family: 'SF Pro Display';
+  font-size: 1em;
+  font-weight: 400;
+  text-align: right;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.text-20 {
+  position: relative;
+  float: left;
+  z-index: 32;
+  width: 24.3583776595%;
+  min-height: 17px;
+  margin: -21px 0 0 15.70479%;
+  font-family: SFProDisplay-Regular;
+  font-size: 1em;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.text-21 {
+  float: left;
+  width: 99.3617021276%;
+  min-height: 32px;
+  margin: 10px 0 0 0.4222099999%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-22 {
+  position: relative;
+  float: left;
+  z-index: 49;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -61px 0 0 15.62168%;
+  font-family: SFProDisplay-Bold;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-23 {
+  position: relative;
+  float: left;
+  z-index: 50;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -41px 0 0 15.62168%;
+  font-family: SFProDisplay-Italic;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-24 {
+  position: relative;
+  float: left;
+  z-index: 51;
+  width: 24.3583776595%;
+  min-height: 17px;
+  margin: -21px 0 0 15.62168%;
+  font-family: SFProDisplay-Regular;
+  font-size: 1em;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.text-26 {
+  position: relative;
+  float: left;
+  z-index: 55;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -61px 0 0 15.62168%;
+  font-family: SFProDisplay-Bold;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-27 {
+  position: relative;
+  float: left;
+  z-index: 56;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -41px 0 0 15.62168%;
+  font-family: SFProDisplay-Italic;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-28 {
+  position: relative;
+  float: left;
+  z-index: 57;
+  width: 24.3583776595%;
+  min-height: 17px;
+  margin: -21px 0 0 15.62168%;
+  font-family: SFProDisplay-Regular;
+  font-size: 1em;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.text-25,
+.text-29 {
+  float: left;
+  width: 99.3617021276%;
+  min-height: 32px;
+  margin: 10px 0 0 0.2127699999%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-3 {
+  position: relative;
+  float: left;
+  z-index: 3;
+  width: 52.987012987%;
+  min-height: 22px;
+  margin-left: 0.00509%;
+  font-family: SFProDisplay-Semibold;
+  font-size: 1.571em;
+  color: rgb(0, 0, 0);
+}
+
+.text-30 {
+  float: left;
+  clear: both;
+  width: 30.7247340425%;
+  min-height: 34px;
+  margin: 30px 0 0 -0.0266%;
+  font-family: SFProDisplay-Semibold;
+  font-size: 1.286em;
+  color: rgb(0, 0, 0);
+}
+
+.text-31 {
+  position: relative;
+  float: left;
+  z-index: 37;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -61px 0 0 15.28258%;
+  font-family: SFProDisplay-Bold;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-32 {
+  position: relative;
+  float: left;
+  z-index: 38;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -41px 0 0 15.28258%;
+  font-family: SFProDisplay-Italic;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-33 {
+  position: relative;
+  float: left;
+  z-index: 39;
+  width: 24.3583776595%;
+  min-height: 17px;
+  margin: -21px 0 0 15.28258%;
+  font-family: SFProDisplay-Regular;
+  font-size: 1em;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.text-34 {
+  float: left;
+  width: 99.7872340425%;
+  min-height: 32px;
+  margin-top: 10px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-35 {
+  position: relative;
+  float: left;
+  z-index: 43;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -61px 0 0 15.36237%;
+  font-family: SFProDisplay-Bold;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-36 {
+  position: relative;
+  float: left;
+  z-index: 44;
+  width: 21.8251329787%;
+  min-height: 17px;
+  margin: -41px 0 0 15.36237%;
+  font-family: SFProDisplay-Italic;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-37 {
+  position: relative;
+  float: left;
+  z-index: 45;
+  width: 24.3583776595%;
+  min-height: 17px;
+  margin: -21px 0 0 15.36237%;
+  font-family: SFProDisplay-Regular;
+  font-size: 1em;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.text-17,
+.text-38 {
+  float: left;
+  width: 99.7872340425%;
+  min-height: 32px;
+  margin: 10px 0 0 0.2127699999%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 5;
+  width: 52.8480113636%;
+  min-height: 22px;
+  font-family: 'SF Pro Display';
+  font-size: 1em;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 6;
+  width: 47.0358306188%;
+  min-height: 21px;
+  margin: 24px 0 0 0.00509%;
+  font-family: 'SF Pro Display';
+  font-size: 1em;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.text-6 {
+  float: left;
+  clear: both;
+  width: 30.7234042553%;
+  min-height: 34px;
+  margin: 30px 0 0 0.2127699999%;
+  font-family: SFProDisplay-Semibold;
+  font-size: 1.286em;
+  color: rgb(0, 0, 0);
+}
+
+.text-7 {
+  float: left;
+  clear: both;
+  width: 99.5744680851%;
+  min-height: 42px;
+  margin-left: 0.2127699999%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-8 {
+  float: left;
+  clear: both;
+  width: 25.9607712765%;
+  min-height: 34px;
+  margin: 30px 0 0 0.2127699999%;
+  font-family: SFProDisplay-Semibold;
+  font-size: 1.286em;
+  color: rgb(0, 0, 0);
+}
+
+.text-9 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 13;
+  width: 84px;
+  min-height: 20px;
+  margin: 8px 0 0 -0.12234%;
+  font-family: SFProDisplay-Bold;
+  font-size: 0.857em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+@media(max-width: 470px) {
+  .container {
+    width: 100%;
+  }
+
+  .container .element {
+    position: relative;
+  }
+
+  .container .image {
+    height: auto;
+  }
+
+  .container .container-2 {
+    width: 79.7872340425%;
+    margin-top: 30px;
+    margin-left: 10%;
+  }
+
+  .container .container-3 {
+    width: 307px;
+    margin-left: 10.0797899999%;
+  }
+
+  .container .element-1 {
+    z-index: 0;
+    margin-left: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+
+  .container .element-10 {
+    z-index: 42;
+    margin-top: 29px;
+    margin-left: 47px;
+  }
+
+  .container .element-2 {
+    z-index: 11;
+  }
+
+  .container .element-3 {
+    z-index: 14;
+    margin-left: 32.86849%;
+  }
+
+  .container .element-4 {
+    z-index: 16;
+    margin-left: 66.04743%;
+  }
+
+  .container .element-5 {
+    z-index: 23;
+    margin-top: 20px;
+    margin-left: 47px;
+  }
+
+  .container .element-6 {
+    z-index: 29;
+    margin-top: 29px;
+    margin-left: 47px;
+  }
+
+  .container .element-7 {
+    z-index: 48;
+    margin-top: 29px;
+    margin-left: 47px;
+  }
+
+  .container .element-8 {
+    z-index: 54;
+    margin-top: 29px;
+    margin-left: 47px;
+  }
+
+  .container .element-9 {
+    z-index: 36;
+    margin-left: 47px;
+  }
+
+  .container .image-10 {
+    position: relative;
+    z-index: 47;
+    margin-left: 60px;
+  }
+
+  .container .image-2 {
+    position: relative;
+    z-index: 12;
+    margin-left: 5.82757%;
+  }
+
+  .container .image-3 {
+    position: relative;
+    z-index: 18;
+    margin-left: 39.0828599999%;
+  }
+
+  .container .image-4 {
+    position: relative;
+    z-index: 19;
+    margin-left: 72.6333499999%;
+  }
+
+  .container .image-5 {
+    position: relative;
+    z-index: 28;
+    margin-left: 63px;
+  }
+
+  .container .image-6 {
+    position: relative;
+    z-index: 34;
+    margin-left: 55px;
+  }
+
+  .container .image-7 {
+    position: relative;
+    z-index: 53;
+    margin-left: 63px;
+  }
+
+  .container .image-8 {
+    position: relative;
+    z-index: 59;
+    margin-left: 62px;
+  }
+
+  .container .image-9 {
+    position: relative;
+    z-index: 41;
+    margin-left: 60px;
+  }
+
+  .container .text-1 {
+    position: relative;
+    z-index: 1;
+    margin-left: 10%;
+  }
+
+  .container .text-10 {
+    position: relative;
+    z-index: 15;
+    margin-left: 5.80212%;
+  }
+
+  .container .text-11 {
+    position: relative;
+    z-index: 17;
+    margin-left: 5.45094%;
+  }
+
+  .container .text-12,
+  .container .text-13 {
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  .container .text-14 {
+    position: relative;
+    z-index: 24;
+    width: 26.5724734042%;
+    margin-left: 127px;
+  }
+
+  .container .text-15 {
+    position: relative;
+    z-index: 25;
+    width: 26.5724734042%;
+    margin-left: 127px;
+  }
+
+  .container .text-16 {
+    position: relative;
+    z-index: 26;
+    width: 29.6575797872%;
+    margin-left: 127px;
+  }
+
+  .container .text-18 {
+    position: relative;
+    z-index: 30;
+    width: 103px;
+    margin-left: 127px;
+  }
+
+  .container .text-19 {
+    position: relative;
+    z-index: 31;
+    width: 103px;
+    margin-left: 127px;
+  }
+
+  .container .text-2 {
+    position: relative;
+    clear: none;
+    z-index: 2;
+    width: 154px;
+    margin-right: 10.21609%;
+  }
+
+  .container .text-20 {
+    position: relative;
+    z-index: 32;
+    width: 114px;
+    margin-left: 127px;
+  }
+
+  .container .text-21 {
+    width: 80%;
+    margin-left: 9.78391%;
+  }
+
+  .container .text-22 {
+    position: relative;
+    z-index: 49;
+    width: 26.642287234%;
+    margin-left: 127px;
+  }
+
+  .container .text-23 {
+    position: relative;
+    z-index: 50;
+    width: 26.642287234%;
+    margin-left: 127px;
+  }
+
+  .container .text-24 {
+    position: relative;
+    z-index: 51;
+    width: 29.7373670212%;
+    margin-left: 127px;
+  }
+
+  .container .text-25 {
+    width: 80.0066489361%;
+    margin-left: 9.99668%;
+  }
+
+  .container .text-26 {
+    position: relative;
+    z-index: 55;
+    width: 26.5724734042%;
+    margin-left: 126px;
+  }
+
+  .container .text-27 {
+    position: relative;
+    z-index: 56;
+    width: 26.5724734042%;
+    margin-left: 126px;
+  }
+
+  .container .text-28 {
+    position: relative;
+    z-index: 57;
+    width: 29.6575797872%;
+    margin-left: 126px;
+  }
+
+  .container .text-3 {
+    position: relative;
+    z-index: 3;
+    width: 147px;
+    margin-left: 0;
+  }
+
+  .container .text-30 {
+    width: 80%;
+    margin-top: 49px;
+    margin-left: 10%;
+  }
+
+  .container .text-31 {
+    position: relative;
+    z-index: 37;
+    width: 26.5724734042%;
+    margin-left: 126px;
+  }
+
+  .container .text-32 {
+    position: relative;
+    z-index: 38;
+    width: 26.5724734042%;
+    margin-left: 126px;
+  }
+
+  .container .text-33 {
+    position: relative;
+    z-index: 39;
+    width: 29.6575797872%;
+    margin-left: 126px;
+  }
+
+  .container .text-35 {
+    position: relative;
+    z-index: 43;
+    width: 26.5724734042%;
+    margin-left: 126px;
+  }
+
+  .container .text-36 {
+    position: relative;
+    z-index: 44;
+    width: 26.5724734042%;
+    margin-left: 126px;
+  }
+
+  .container .text-37 {
+    position: relative;
+    z-index: 45;
+    width: 29.6575797872%;
+    margin-left: 126px;
+  }
+
+  .container .text-17,
+  .container .text-29,
+  .container .text-34,
+  .container .text-38 {
+    width: 79.7938829787%;
+    margin-left: 9.99668%;
+  }
+
+  .container .text-4 {
+    position: relative;
+    z-index: 5;
+    width: 147px;
+  }
+
+  .container .text-5 {
+    position: relative;
+    z-index: 6;
+    width: 120px;
+    margin-left: 0;
+  }
+
+  .container .text-7 {
+    width: 79.7872340425%;
+    margin-left: 10%;
+  }
+
+  .container .text-6,
+  .container .text-8 {
+    margin-left: 10%;
+  }
+
+  .container .text-9 {
+    position: relative;
+    z-index: 13;
+    margin-left: -0.12215%;
+  }
+}
