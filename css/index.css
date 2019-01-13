@@ -1,4 +1,5 @@
 body {
+  overflow-x: hidden;
   background-color: rgb(255, 255, 255);
   font: normal 0.75em/1.38 TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia;
   color: rgb(0, 0, 0);
