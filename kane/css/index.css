@@ -1,17 +1,33 @@
 body {
   background-color: #d8dfe5;
-  font: normal .9em/1.38 'SF-Pro-Display-Light';
+  font: normal .9em/1.38 'SFProDisplay-Regular';
   color: rgb(0, 0, 0);
-  font-family: SF Pro Display;
+  font-family: SFProDisplay-Regular;
 }
 
 @font-face {
-  font-family: "SF Pro Display";
-  src: url(http://whitelye.co/kane/SF-Pro-Display-Light.otf) format("truetype");
+  font-family: SFProDisplay-Regular;
   src: url(http://whitelye.co/kane/SF-Pro-Display-Regular.otf) format("truetype");
+}
+
+@font-face {
+  font-family: SFProDisplay-RegularItalic;
   src: url(http://whitelye.co/kane/SF-Pro-Display-RegularItalic.otf) format("truetype");
-  src: url(http://whitelye.co/kane/SF-Pro-Display-Semibold.otf) format("truetype");
+}
+
+@font-face {
+  font-family: SFProDisplay-Light;
+  src: url(http://whitelye.co/kane/SF-Pro-Display-Light.otf) format("truetype");
+}
+
+@font-face {
+  font-family: SFProDisplay-Bold;
   src: url(http://whitelye.co/kane/SF-Pro-Display-Bold.otf) format("truetype");
+}
+
+@font-face {
+  font-family: SFProDisplay-SemiBold;
+  src: url(http://whitelye.co/kane/SF-Pro-Display-Semibold.otf) format("truetype");
 }
 
 .container .container {
@@ -230,7 +246,7 @@ body {
   z-index: 1;
   width: 4.6808510638%;
   margin: -33px 0 0 -0.03657%;
-  font-family: 'SF Pro Display';
+  font-family: 'SFProDisplay-Regular';
   font-size: 1em;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.5);
@@ -268,7 +284,8 @@ body {
   width: 99.3617021276%;
   min-height: 32px;
   margin: 10px 0 0 0.2127699999%;
-  font-family: SFProDisplay-LightItalic;
+  font-family: SFProDisplay-Light;
+  font-style: italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
@@ -303,7 +320,7 @@ body {
   width: 21.8251329787%;
   min-height: 17px;
   margin: -40px 0 0 72px;
-  font-family: SFProDisplay-Italic;
+  font-style: italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
@@ -339,7 +356,7 @@ body {
   width: 21.8251329787%;
   min-height: 17px;
   margin: -40px 0 0 15.70479%;
-  font-family: SFProDisplay-Italic;
+  font-style: italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
@@ -352,7 +369,7 @@ body {
   width: 32.7659574468%;
   min-height: 19px;
   margin: -33px -0.12633% 0 0;
-  font-family: 'SF Pro Display';
+  font-family: 'SFProDisplay-Regular';
   font-size: 1em;
   font-weight: 400;
   text-align: right;
@@ -399,7 +416,7 @@ body {
   width: 21.8251329787%;
   min-height: 17px;
   margin: -40px 0 0 15.62168%;
-  font-family: SFProDisplay-Italic;
+  font-style: italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
@@ -435,7 +452,7 @@ body {
   width: 21.8251329787%;
   min-height: 17px;
   margin: -40px 0 0 15.62168%;
-  font-family: SFProDisplay-Italic;
+  font-style: italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
@@ -504,7 +521,7 @@ body {
   width: 21.8251329787%;
   min-height: 17px;
   margin: -40px 0 0 15.28258%;
-  font-family: SFProDisplay-Italic;
+  font-style: italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
@@ -549,7 +566,7 @@ body {
   width: 21.8251329787%;
   min-height: 17px;
   margin: -40px 0 0 15.36237%;
-  font-family: SFProDisplay-Italic;
+  font-style: italic;
   font-size: 1em;
   color: rgb(0, 0, 0);
 }
@@ -583,7 +600,7 @@ body {
   z-index: 5;
   width: 52.8480113636%;
   min-height: 22px;
-  font-family: 'SF Pro Display';
+  font-family: 'SFProDisplay-Regular';
   font-size: 1em;
   font-weight: 400;
   color: rgb(0, 0, 0);
@@ -597,7 +614,7 @@ body {
   width: 47.0358306188%;
   min-height: 21px;
   margin: 24px 0 0 0.00334%;
-  font-family: 'SF Pro Display';
+  font-family: 'SFProDisplay-Regular';
   font-size: 1em;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.5);
